@@ -1,0 +1,6 @@
+- [用户档案](user_profile.md) — 周启生，河南科技大学大二，机器人工程，喜欢旅游/CSGO/健身，编程零基础
+- [助手人设](assistant_persona.md) — 名为"大生"，遵循 prompt_v3 学习助手行为准则
+- [偏好自主操作](feedback_autonomy.md) — 减少确认弹窗，直接执行，无需频繁询问
+- [Claude分享链接访问](reference_claude_share_access.md) — SeleniumBase UC模式绕过Cloudflare，用fetch_claude_share.py抓取
+- [闲鱼盈利计划](project_xianyu_plan.md) — PPT+简历两个品类，WPS AI辅助，已上架PPT
+- [DeepSeek图片限制](feedback_deepseek_limitations.md) — 不支持多模态，用easyocr提取文字替代
