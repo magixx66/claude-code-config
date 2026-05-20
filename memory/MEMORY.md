@@ -4,3 +4,4 @@
 - [Claude分享链接访问](reference_claude_share_access.md) — SeleniumBase UC模式绕过Cloudflare，用fetch_claude_share.py抓取
 - [闲鱼盈利计划](project_xianyu_plan.md) — PPT+简历两个品类，WPS AI辅助，已上架PPT
 - [DeepSeek图片限制](feedback_deepseek_limitations.md) — 不支持多模态，用easyocr提取文字替代
+- [中国用户环境](user_location.md) — 国内网络，优先推荐国内平台和方案
